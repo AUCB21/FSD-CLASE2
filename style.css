@@ -1,5 +1,4 @@
 .initext{
-    height: 350px;
     background-image: url('Marca-ITBA-Color-ALTA.png');
     background-size: contain;
     background-repeat: no-repeat;
@@ -12,4 +11,17 @@
 }
 body{
     font-family: 'Heebo', sans-serif;
+}
+.margen{
+    color: black;
+    background-color: blue;
+    margin: 10px;
+    padding: 10px;
+    border: 5px black solid;
+    /* height: 500px; */
+    width: 335px;
+    overflow: hidden;
+}
+.initext{
+    text-shadow: 2px 2px 6px rgb(17, 17, 82);
 }
