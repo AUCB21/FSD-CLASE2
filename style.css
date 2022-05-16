@@ -29,12 +29,13 @@ div h2, h3{
     border-width: 0.2rem
 }
 
-* {
-    font-size: 24px;
-}
-
 #fondo{
-    background-color:rgb(232, 93, 93)
+    height: 500px;
+    background-image: url("coffee.png");
+    background-size: cover;
+    
+
 }
 
 
+    
